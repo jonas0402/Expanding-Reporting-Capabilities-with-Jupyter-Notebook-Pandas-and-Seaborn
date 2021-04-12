@@ -1,0 +1,11 @@
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install matplotlib
+pip install scikit-learn
+
+pip install jupyter_contrib_nbextensions
+pip install jupyter_nbextensions_configurator
+jupyter contrib nbextension install --user
+jupyter nbextensions_configurator enable --user
+
