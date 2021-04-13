@@ -2,13 +2,16 @@ Website to intall anaconda Windows or Mac users:
 https://www.anaconda.com/products/individual
 
 Basic Libraries to put in the CMD prompt as administrator:
-pip install pandas
 pip install numpy
-pip install seaborn
+pip install pandas
+pip install pyodbc
+pip install sklearn
+pip install scipy
 pip install matplotlib
-pip install scikit-learn
+pip install seaborn
 
 Jupyter Notebook Extensions:
+pip install nbconvert==5.6.1
 pip install jupyter_contrib_nbextensions
 pip install jupyter_nbextensions_configurator
 jupyter contrib nbextension install --user
