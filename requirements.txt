@@ -1,14 +1,14 @@
-pip install numpy
-pip install pandas
-pip install pyodbc
-pip install sklearn
-pip install scipy
-pip install matplotlib
-pip install seaborn
-pip install notebook
-pip install nbconvert==5.6.1
-pip install jupyter_contrib_nbextensions
-pip install jupyter_nbextensions_configurator
-jupyter contrib nbextension install --user
-jupyter nbextensions_configurator enable --user
+numpy
+pandas
+pyodbc
+sklearn
+scipy
+matplotlib
+seaborn
+notebook
+nbconvert==5.6.1
+#jupyter_contrib_nbextensions
+#jupyter_nbextensions_configurator
+#jupyter contrib nbextension install --user
+#jupyter nbextensions_configurator enable --user
 
