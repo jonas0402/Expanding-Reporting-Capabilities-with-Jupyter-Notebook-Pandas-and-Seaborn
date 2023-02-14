@@ -1,0 +1,8 @@
+#sh files
+*.sh
+
+#bat files
+*.bat
+
+#nb checkpoints
+*.ipynb_checkpoints
