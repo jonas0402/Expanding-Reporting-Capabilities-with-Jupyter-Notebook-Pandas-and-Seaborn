@@ -30,7 +30,9 @@ If you are running into issues, where extensions are enabled but not showing up 
 You can check more details about this approach at: https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator/issues/127#issuecomment-1301506342
 
 ## More About NBExtensions
-To understand more and better about NBExtension I highly recommend checking out its documentation at: https://nbconvert.readthedocs.io/en/latest/usage.html#convert-html and https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/exporting.html#
+To understand more and better about NBExtension I highly recommend checking out its documentation at: https://nbconvert.readthedocs.io/en/latest/usage.html#convert-html
+https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/exporting.html#
+https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/
 
 Aditionally, there are multiple articles that navigate and talk about the benefit of most used extensions. Please take a look at: https://towardsdatascience.com/12-jupyter-notebook-extensions-that-will-make-your-life-easier-e0aae0bd181
 
