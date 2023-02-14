@@ -20,6 +20,15 @@ Once you have created and activated your python environment, you can install the
 To enable the extensions, run the following command:
 `jupyter nbextensions_configurator enable --user`
 
+## Troubleshoting NBExtension and Python Virtual Enviroments compability
+If you are running into issues, where extensions are enabled but not showing up as a tab. Use these commands that will help troubleshoot this.
+`pip install jupyter_nbextensions_configurator`
+`jupyter nbextension install --sys-prefix --py jupyter_nbextensions_configurator --overwrite`
+`upyter nbextension enable --sys-prefix --py jupyter_nbextensions_configurator`
+`jupyter serverextension enable --sys-prefix --py jupyter_nbextensions_configurator`
+
+You can check more details about this approach at: https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator/issues/127#issuecomment-1301506342
+
 ## More About NBExtensions
 To understand more and better about NBExtension I highly recommend checking out its documentation at: https://nbconvert.readthedocs.io/en/latest/usage.html#convert-html and https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/exporting.html#
 

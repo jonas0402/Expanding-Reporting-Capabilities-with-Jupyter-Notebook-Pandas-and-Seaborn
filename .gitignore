@@ -8,4 +8,7 @@
 *.ipynb_checkpoints
 
 #txt older instructions
-*NoInput.txt
+GettingNotebookHTMLNoInput.txt
+
+#env
+./nbext23
