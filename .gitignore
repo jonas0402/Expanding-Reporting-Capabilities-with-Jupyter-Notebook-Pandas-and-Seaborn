@@ -7,4 +7,5 @@
 #nb checkpoints
 *.ipynb_checkpoints
 
-#nothing here
+#txt older instructions
+*NoInput.txt
