@@ -1,7 +1,7 @@
 numpy
 pandas
 pyodbc
-sklearn
+scikit-learn
 scipy
 matplotlib
 seaborn
