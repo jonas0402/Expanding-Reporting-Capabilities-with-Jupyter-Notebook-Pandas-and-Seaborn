@@ -20,5 +20,10 @@ Once you have created and activated your python environment, you can install the
 To enable the extensions, run the following command:
 `jupyter nbextensions_configurator enable --user`
 
+## More About NBExtensions
+To understand more and better about NBExtension I highly recommend checking out its documentation at: https://nbconvert.readthedocs.io/en/latest/usage.html#convert-html and https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/exporting.html#
+
+Aditionally, there are multiple articles that navigate and talk about the benefit of most used extensions. Please take a look at: https://towardsdatascience.com/12-jupyter-notebook-extensions-that-will-make-your-life-easier-e0aae0bd181
+
 ## Conclusion
 By creating a separate python environment for Jupyter Notebook extensions, you can easily manage your packages and dependencies and avoid potential conflicts with your other installed packages. The above steps should make it simple to install and use Jupyter Notebook extensions.
