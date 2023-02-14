@@ -1,0 +1,16 @@
+numpy
+pandas
+pyodbc
+sklearn
+scipy
+matplotlib
+seaborn
+notebook
+autopep8
+nbconvert==5.6.1
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+#jupyter contrib nbextension install --user
+#jupyter nbextensions_configurator enable --user
+#
+

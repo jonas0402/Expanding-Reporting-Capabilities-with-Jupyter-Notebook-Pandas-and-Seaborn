@@ -1,0 +1,12 @@
+Within the command prompt go to the same directory where the notebook is.
+For example:
+cd/Documents/PythonNotebooks
+
+Options to obtain dataset without input:
+
+Directly from the command prompt:
+jupyter nbconvert --to html [The Name of Your Notebook].ipynb --no-input
+
+Use the extensions available on your notebook the hidden input feature:
+jupyter nbconvert --to html [The Name of Your Notebook].ipynb
+
